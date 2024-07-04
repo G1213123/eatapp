@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+  },
+  "name": "eatapp",
+  "version": "1.0.0",
+  "main": "scripts/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
